@@ -1,0 +1,91 @@
+.container{
+    width: 100%;
+    width: 280px;
+    margin:  0 auto;
+    padding: 0 20px;
+}
+
+.header{
+    height: 130px;
+    background-color: #1B54DD;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    text-align: center;
+    color: #FFFFFF;
+}
+.logo:nth-child(1){
+    font-size: 32px;
+    line-height: 27.63px;
+}
+.logo:nth-child(2){
+    font-size: 18px;
+    line-height: 18px;
+}
+.family{
+    font-family: Roboto;
+}
+
+
+
+.btn{
+    display: block !important;
+    margin: 32px auto;
+    color: white;
+    display: block !important; 
+    width: 62px !important;
+    height: 41px !important;
+    background-color: #1B54DD !important;
+    border: #1B54DD;
+}
+.text__about__team{
+    margin-top: 32px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16.94px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    
+}
+
+.sosial{
+    gap: 32px;
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.web{
+    margin-bottom: 8px;
+    margin-top: 16px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16.94px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    
+}
+
+.addres{
+    font-size: 14px !important;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px !important;
+}
+
+.footer-DMI{
+    
+}
